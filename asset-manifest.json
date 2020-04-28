@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/VKHomeTask/static/css/main.981f7211.chunk.css",
-    "main.js": "/VKHomeTask/static/js/main.2d225a2c.chunk.js",
-    "main.js.map": "/VKHomeTask/static/js/main.2d225a2c.chunk.js.map",
+    "main.js": "/VKHomeTask/static/js/main.837105e9.chunk.js",
+    "main.js.map": "/VKHomeTask/static/js/main.837105e9.chunk.js.map",
     "runtime-main.js": "/VKHomeTask/static/js/runtime-main.6cb6e552.js",
     "runtime-main.js.map": "/VKHomeTask/static/js/runtime-main.6cb6e552.js.map",
     "static/css/2.86df01db.chunk.css": "/VKHomeTask/static/css/2.86df01db.chunk.css",
     "static/js/2.55414c2c.chunk.js": "/VKHomeTask/static/js/2.55414c2c.chunk.js",
     "static/js/2.55414c2c.chunk.js.map": "/VKHomeTask/static/js/2.55414c2c.chunk.js.map",
     "index.html": "/VKHomeTask/index.html",
-    "precache-manifest.a34b09df00011a4fd91a595a076e20d2.js": "/VKHomeTask/precache-manifest.a34b09df00011a4fd91a595a076e20d2.js",
+    "precache-manifest.386831afec8f6c1697239c2fe7114abb.js": "/VKHomeTask/precache-manifest.386831afec8f6c1697239c2fe7114abb.js",
     "service-worker.js": "/VKHomeTask/service-worker.js",
     "static/css/2.86df01db.chunk.css.map": "/VKHomeTask/static/css/2.86df01db.chunk.css.map",
     "static/css/main.981f7211.chunk.css.map": "/VKHomeTask/static/css/main.981f7211.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.86df01db.chunk.css",
     "static/js/2.55414c2c.chunk.js",
     "static/css/main.981f7211.chunk.css",
-    "static/js/main.2d225a2c.chunk.js"
+    "static/js/main.837105e9.chunk.js"
   ]
 }
